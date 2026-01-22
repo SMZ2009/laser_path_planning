@@ -1,0 +1,6 @@
+numpy>=1.21.0
+matplotlib>=3.4.0
+svgpathtools>=1.4.4
+scipy>=1.7.0
+pyyaml>=5.4.0
+scikit-learn>=0.24.0
